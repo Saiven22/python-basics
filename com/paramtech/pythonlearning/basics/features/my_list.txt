@@ -1,0 +1,8 @@
+(lp0
+S'abc'
+p1
+aS'def'
+p2
+aS'ghi'
+p3
+a.
